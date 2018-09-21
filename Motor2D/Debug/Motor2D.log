@@ -1,3 +1,14 @@
-﻿  j1App.cpp
-  Motor2D.vcxproj -> C:\Users\Martí\Desktop\Dev_class2_handout\Debug\Motor 2D.exe
-  Motor2D.vcxproj -> C:\Users\Martí\Desktop\Dev_class2_handout\Debug\Motor 2D.pdb (Partial PDB)
+﻿  j1Main.cpp
+  j1App.cpp
+  j1Audio.cpp
+  j1Input.cpp
+  j1Scene.cpp
+  p2Log.cpp
+  j1Render.cpp
+  j1Textures.cpp
+  j1Window.cpp
+c:\users\martiti\desktop\xml-handout\motor2d\j1window.cpp(75): error C2065: 'doc': undeclared identifier
+c:\users\martiti\desktop\xml-handout\motor2d\j1window.cpp(75): error C2228: left of '.child' must have class/struct/union
+  c:\users\martiti\desktop\xml-handout\motor2d\j1window.cpp(75): note: type is 'unknown-type'
+  pugixml.cpp
+  Generating Code...
